@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **muratpl/muratpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Murat
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ASP.NET Core
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me: muratpala007@gmail.com
+
