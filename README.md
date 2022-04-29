@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on web projects
+- 🔭 For my tutorials repo: [muratpl-repo](https://github.com/muratpl-repo)
 - 📫 How to reach me: muratpala007@gmail.com
 
